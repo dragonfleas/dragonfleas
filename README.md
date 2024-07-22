@@ -1,6 +1,4 @@
-# About Me
-
-## 👋 Sup, I'm devin
+# 👋 Sup, I'm devin
 
 ### Short Bio
 

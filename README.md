@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 🚀 Founder of an early startup  
 &nbsp;&nbsp;&nbsp;&nbsp; 💡 Enthusiastic about learning new tech stacks  
 &nbsp;&nbsp;&nbsp;&nbsp; 🎮 PC-Gamer  
-&nbsp;&nbsp;&nbsp;&nbsp;🏯 Anime enjoyer  
+&nbsp;&nbsp;&nbsp;&nbsp; 🏯 Anime enjoyer  
 
 I'm incredibly passionate about the field of software engineering, DevOps as a methodology, and in the more colloquial meaning regarding infrastructure, CI/CD, automated, and resilient self-healing systems.
 
